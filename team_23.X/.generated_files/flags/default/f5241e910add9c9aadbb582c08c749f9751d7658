@@ -1,0 +1,1 @@
+ $(MP_EXTRA_CC_PRE)  -g -x c -c -mprocessor=$(MP_PROCESSOR_OPTION)  -fno-common -I"../../Desktop/code" -I"C:/Users/nehu/Desktop/code/ece118_base" -I"C:/Users/nehu/Desktop/code/ece118_template"   -DXPRJ_default=$(CND_CONF)    $(COMPARISON_BUILD)  -mdfp="${DFP_DIR}"  C:/Users/nehu/Desktop/code/ece118_base/ES_LookupTables.c
